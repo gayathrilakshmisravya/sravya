@@ -1,0 +1,25 @@
+label{
+    display: block;
+    padding: 10px;
+    border-radius: 10%;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+form{
+    background-color: blueviolet;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10%;
+}
+button{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: brown;
+}
+input[type=submit]:hover{
+    background-color: bisque;
+    cursor:pointer;
+}
